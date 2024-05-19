@@ -82,3 +82,6 @@ This microservice allows users to upload files through a web interface and saves
   </ul>
   </li>
 </ol>
+<h1>UML Sequence Diagram</h1>
+![uml-sequence-diagram-example](https://github.com/gChrisj/CS361_Microservice/assets/33988343/34f29e65-6c58-40c8-bcc1-a00dee2399d8)
+
