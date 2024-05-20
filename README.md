@@ -33,7 +33,7 @@ This microservice allows users to upload files through a web interface and saves
 
    <li><h3>Through your terminal</h3>
   <ul>
-    <h4>Use this command replacing "@/path/to/your/file.txt" with the path to your file.
+    <h4>Use this command replacing "/path/to/your/file.txt" with the path to your file(keep @ symbol).
     <ul>
        <li>curl -F "file=@/path/to/your/file.txt" http://127.0.0.1:8000/upload
 </li>
