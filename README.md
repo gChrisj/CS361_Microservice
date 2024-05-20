@@ -83,5 +83,5 @@ This microservice allows users to upload files through a web interface and saves
   </li>
 </ol>
 <h1>UML Sequence Diagram</h1>
-<img src="/SequenceUML.png" alt="My UML Design"/>
+<img height=500px src="/SequenceUML.png" alt="My UML Design"/>
 
