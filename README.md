@@ -9,6 +9,7 @@ This microservice allows users to upload files through a web interface and saves
   <ul>
     <li>git clone https://github.com/your-username/CS361_Microservice.git</li>
     <li>cd CS361_Microservice</li>
+    <li>pip install flask</li>
   </ul>
   </li>
 
