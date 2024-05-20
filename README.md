@@ -83,6 +83,5 @@ This microservice allows users to upload files through a web interface and saves
   </li>
 </ol>
 <h1>UML Sequence Diagram</h1>
-![SequenceUML](https://github.com/gChrisj/CS361_Microservice/assets/33988343/d5e11a77-8dae-4018-ba8c-a098c0d318a3)
-
+<img src="/SequenceUML.png" alt="My UML Design"/>
 
